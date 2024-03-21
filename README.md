@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koushikSasmal27
-- 👀 I’m interested in .codeing..
+- 👀 I’m interested in .coding..
 - 🌱 I’m currently learning c.
 - 💞️ I’m looking to collaborate on various tech events
 - 📫 How to reach me ...
